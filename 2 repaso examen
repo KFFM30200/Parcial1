@@ -1,0 +1,6 @@
+def f(x):("Calcula el area del rectangulo")
+print("Ingresa el total del area")
+input (12*20)
+print(" ")
+print("Ingresa el perimetro")
+input (24+40)
