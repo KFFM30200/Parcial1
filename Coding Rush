@@ -1,0 +1,11 @@
+def funcion_superar():
+
+  print(" ")
+  a= "Hola Adrik solo quiero decirte que fuiste una parte muy importante para mi vida, pero es momento de dejarte ir por mi"
+  print(a)
+
+  print(" ")
+  palabras = a.split()
+  print("Palabras totales de la carta", len (palabras))
+
+funcion_superar()
