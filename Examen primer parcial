@@ -1,0 +1,7 @@
+def f(x):("Calcular IMC")
+print("¿Cuanto pesa el paciente?")
+peso = float(input())
+print("¿Cual es la altura del paciente?")
+altura= float(input())
+IMC = (peso/altura**2)
+print(IMC)
