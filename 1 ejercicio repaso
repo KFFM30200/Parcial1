@@ -1,0 +1,5 @@
+Historia=float(imput("insertar la nota uno"))
+Ingles=float(imput("insertar la nota dos"))
+Mate=float(imput("insertar la nota tres"))
+Notafinal=(Historia + Ingles + Mate)/3
+print(Notafinal)
